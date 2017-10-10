@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/week06.dir/test_graph.c.o CMakeFiles/week06.dir/graph.c.o  -o week06  -L"/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/../../lib/llib" -Wl,-rpath,"/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/../../lib/llib" -lfdr -lutility -lbt 

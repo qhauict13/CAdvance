@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="week05"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\week04\;CMake Files\week05\;CMake Files\week06\;CMake Files\week06\matrix_implement\;CMake Files\week06\rbtree_implement\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/joel/Desktop/C Advance/Ginz/week05"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/week05/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/week05/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/week05/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/week05/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="week05">
+				<Option output="/home/joel/Desktop/C Advance/Ginz/week05/week05" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/joel/Desktop/C Advance/Ginz/week05"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/joel/Desktop/C Advance/Ginz/week05/../lib/inc"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/week05/Makefile&quot;  VERBOSE=1 week05"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/week05/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/week05/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/week05/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="week05/fast">
+				<Option output="/home/joel/Desktop/C Advance/Ginz/week05/week05" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/joel/Desktop/C Advance/Ginz/week05"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/joel/Desktop/C Advance/Ginz/week05/../lib/inc"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/week05/Makefile&quot;  VERBOSE=1 week05/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/week05/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/week05/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/week05/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week05/test_lib.c">
+			<Option target="week05"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week04/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\week04\"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week04/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\week04\"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week05/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\week05\"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week05/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\week05\"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\week06\matrix_implement\"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\week06\matrix_implement\"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\week06\rbtree_implement\"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\week06\rbtree_implement\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

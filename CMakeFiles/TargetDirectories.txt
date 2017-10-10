@@ -1,0 +1,14 @@
+/home/joel/Desktop/C Advance/Ginz/CMakeFiles/rebuild_cache.dir
+/home/joel/Desktop/C Advance/Ginz/CMakeFiles/edit_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week04/CMakeFiles/edit_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week04/CMakeFiles/rebuild_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week04/CMakeFiles/week04.dir
+/home/joel/Desktop/C Advance/Ginz/week05/CMakeFiles/edit_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week05/CMakeFiles/rebuild_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week05/CMakeFiles/week05.dir
+/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/CMakeFiles/rebuild_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/CMakeFiles/edit_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/CMakeFiles/week06.dir
+/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/CMakeFiles/rebuild_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/CMakeFiles/edit_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/CMakeFiles/week061.dir

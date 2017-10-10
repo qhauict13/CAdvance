@@ -1,0 +1,3 @@
+/home/joel/Desktop/C Advance/Ginz/week04/CMakeFiles/edit_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week04/CMakeFiles/rebuild_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week04/CMakeFiles/week04.dir

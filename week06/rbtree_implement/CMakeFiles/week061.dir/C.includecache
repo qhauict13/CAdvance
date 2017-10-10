@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/graph.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/graph.h
+
+/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/graph.h
+libfdr/jrb.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/test_graph.c
+stdio.h
+-
+stdlib.h
+-
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/graph.h
+string.h
+-
+
+week06/rbtree_implement/../../lib/inc/libfdr/jrb.h
+jval.h
+week06/rbtree_implement/../../lib/inc/libfdr/jval.h
+
+week06/rbtree_implement/../../lib/inc/libfdr/jval.h
+

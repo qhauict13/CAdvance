@@ -1,0 +1,26 @@
+/home/joel/Downloads/clion-2017.1.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug . -G "CodeBlocks - Unix Makefiles" "/home/joel/Desktop/C Advance/Ginz"
+CMake Error at week06/rbtree_implement/CMakeLists.txt:14 (add_executable):
+  add_executable cannot create target "week06" because another target with
+  the same name already exists.  The existing target is an executable created
+  in source directory "/home/joel/Desktop/C
+  Advance/Ginz/week06/matrix_implement".  See documentation for policy
+  CMP0002 for more details.
+
+
+CMake Error at week06/rbtree_implement/CMakeLists.txt:16 (target_link_libraries):
+  Attempt to add link library "fdr" to target "week06" which is not built in
+  this directory.
+
+
+CMake Error at week06/rbtree_implement/CMakeLists.txt:16 (target_link_libraries):
+  Attempt to add link library "utility" to target "week06" which is not built
+  in this directory.
+
+
+CMake Error at week06/rbtree_implement/CMakeLists.txt:16 (target_link_libraries):
+  Attempt to add link library "bt" to target "week06" which is not built in
+  this directory.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/joel/Desktop/C Advance/Ginz/CMakeFiles/CMakeOutput.log".

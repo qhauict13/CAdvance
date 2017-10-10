@@ -1,0 +1,3 @@
+/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/CMakeFiles/rebuild_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/CMakeFiles/edit_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/CMakeFiles/week06.dir

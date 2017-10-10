@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ginz"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/joel/Desktop/C Advance/Ginz/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/joel/Desktop/C Advance/Ginz/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/joel/Desktop/C Advance/Ginz/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ginz">
+				<Option output="/home/joel/Desktop/C Advance/Ginz/cmake-build-debug/Ginz" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/joel/Desktop/C Advance/Ginz/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ginz"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ginz/fast">
+				<Option output="/home/joel/Desktop/C Advance/Ginz/cmake-build-debug/Ginz" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/joel/Desktop/C Advance/Ginz/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ginz/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/joel/Desktop/C\ Advance/Ginz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/Testcases/corrupt.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/Testcases/gendef.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/inc/bc.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/inc/bt.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/inc/btcmd.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/inc/btr.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/inc/btree.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/inc/btree_int.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/samples/btcopy.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/samples/btsort.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bacfre.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bacini.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/balbk1.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/balblk.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bclrlf.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bclrst.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bcpybk.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bdbug.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bdelk1.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bdelky.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bdemte.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bfndky.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bgtfre.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bgtinf.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bgtslt.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/binsky.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bjnblk.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bjoin.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bleaf.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bmkfre.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bmodky.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bnewap.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bnxtbk.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bnxtky.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bprvky.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bputky.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/brdblk.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bremky.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/brepky.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bsemap.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bsetbk.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bsetbs.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bsptbk.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bsrhbk.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bstinf.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bsuper.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btchgr.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btcls.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btcrt.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btcrtr.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btdata.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btdelr.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btdupkey.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btdups.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bterr.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btinit.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btlock.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btopn.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btpos.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btque.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btstk.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btthresh.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bupdky.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/butil.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bvalap.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bwrblk.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bxdump.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/bigt.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/bigtdel.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/bt.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btcmd.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btr.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/kcp.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/inc/bt/bc.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/inc/bt/bt.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/inc/bt/btcmd.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/inc/bt/btr.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/inc/bt/btree.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/inc/bt/btree_int.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/inc/libfdr/dllist.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/inc/libfdr/fields.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/inc/libfdr/jrb.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/inc/libfdr/jval.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/inc/utility.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/libfdr/dllist.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/libfdr/dllist.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/libfdr/fields.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/libfdr/fields.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/libfdr/jrb.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/libfdr/jrb.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/libfdr/jval.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/libfdr/jval.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/libutility/utility.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/lib/libutility/utility.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week01/qsort_3w_g.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week01/qsort_3w_g_v1(test).c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week01/qsort_3w_int.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week02/jval.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week02/jval.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week02/test.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week03/address_book/address_book.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week03/address_book/address_book.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week03/address_book/test_address_book.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/symbol_table.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/symbol_table.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/test_symbol_tables.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week04/test_lib.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week05/test_lib.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/graph.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/graph.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/test_graph.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/graph.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/graph.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/test_graph.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week07/graph.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week07/graph.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week07/metro_stations.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week07/test_graph.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week08/graph.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week08/graph.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week08/metro_stations.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week08/test_graph.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week09/graph.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week09/graph.h">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week09/metro_stations.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/week09/test_graph.c">
+			<Option target="Ginz"/>
+		</Unit>
+		<Unit filename="/home/joel/Desktop/C Advance/Ginz/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

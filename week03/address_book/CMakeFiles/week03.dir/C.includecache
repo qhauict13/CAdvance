@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joel/Desktop/C Advance/Ginz/week03/address_book/address_book.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+address_book.h
+/home/joel/Desktop/C Advance/Ginz/week03/address_book/address_book.h
+
+/home/joel/Desktop/C Advance/Ginz/week03/address_book/address_book.h
+
+/home/joel/Desktop/C Advance/Ginz/week03/address_book/test_address_book.c
+stdio.h
+-
+stdlib.h
+-
+address_book.h
+/home/joel/Desktop/C Advance/Ginz/week03/address_book/address_book.h
+

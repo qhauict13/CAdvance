@@ -1,0 +1,1072 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/Testcases/corrupt.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/Testcases/gendef.c
+stdio.h
+-
+stdlib.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/samples/btcopy.c
+stdio.h
+-
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/samples/btree.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/samples/btsort.c
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/samples/btree.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bacfre.c
+stdlib.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bacini.c
+stdlib.h
+-
+stdio.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/balbk1.c
+stdlib.h
+-
+stdio.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/balblk.c
+stdlib.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bclrlf.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bclrst.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bcpybk.c
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bdbug.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bdelk1.c
+stdio.h
+-
+string.h
+-
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bdelky.c
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bdemte.c
+stdio.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bfndky.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bgtfre.c
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+limits.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bgtinf.c
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bgtslt.c
+stdio.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/binsky.c
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+string.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bjnblk.c
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bjoin.c
+stdio.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bleaf.c
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bmkfre.c
+stdio.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bmodky.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bnewap.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bnxtbk.c
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bnxtky.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bprvky.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bputky.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/brdblk.c
+stdio.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bremky.c
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/brepky.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bsemap.c
+unistd.h
+-
+stdlib.h
+-
+stdio.h
+-
+errno.h
+-
+fcntl.h
+-
+string.h
+-
+signal.h
+-
+setjmp.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bsetbk.c
+stdio.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bsetbs.c
+stdio.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bsptbk.c
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bsrhbk.c
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bstinf.c
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+math.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bsuper.c
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btchgr.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btcls.c
+stdio.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btcrt.c
+stdio.h
+-
+string.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btcrtr.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btdata.c
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btdelr.c
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btdupkey.c
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+string.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btdups.c
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bterr.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+errno.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btinit.c
+stdio.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btlock.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btopn.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btpos.c
+stdio.h
+-
+string.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btque.c
+stdio.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btstk.c
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btthresh.c
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bupdky.c
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/butil.c
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bvalap.c
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bwrblk.c
+stdio.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bt.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+sys/types.h
+-
+unistd.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/bxdump.c
+stdio.h
+-
+string.h
+-
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-lib/btree_int.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/bigt.c
+stdio.h
+-
+stdlib.h
+-
+limits.h
+-
+string.h
+-
+signal.h
+-
+setjmp.h
+-
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btree.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/bigtdel.c
+stdio.h
+-
+stdlib.h
+-
+limits.h
+-
+string.h
+-
+signal.h
+-
+setjmp.h
+-
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btree.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/bt.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+sys/stat.h
+-
+bc.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/bc.h
+bt.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/bt.h
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btree_int.h
+btcmd.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btcmd.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btcmd.c
+stdio.h
+-
+stdlib.h
+-
+sys/stat.h
+-
+string.h
+-
+signal.h
+-
+setjmp.h
+-
+readline/readline.h
+-
+readline/history.h
+-
+btcmd.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btcmd.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btr.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+errno.h
+-
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btree.h
+btree_int.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btree_int.h
+btr.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btr.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/kcp.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+btree.h
+/home/joel/Desktop/C Advance/Ginz/lib/bt-5.0.0/src-main/btree.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/dllist.c
+stdio.h
+-
+dllist.h
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/dllist.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/dllist.h
+jval.h
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/jval.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/fields.c
+stdio.h
+-
+fields.h
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/fields.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/fields.h
+stdio.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/jrb.c
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+jrb.h
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/jrb.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/jrb.h
+jval.h
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/jval.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/jval.c
+stdio.h
+-
+jval.h
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/jval.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/libfdr/jval.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/libutility/utility.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+utility.h
+/home/joel/Desktop/C Advance/Ginz/lib/libutility/utility.h
+
+/home/joel/Desktop/C Advance/Ginz/lib/libutility/utility.h
+
+/home/joel/Desktop/C Advance/Ginz/week01/qsort_3w_g.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week01/qsort_3w_g_v1(test).c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week01/qsort_3w_int.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week02/jval.c
+jval.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week02/test.c
+jval.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week03/address_book/address_book.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+address_book.h
+/home/joel/Desktop/C Advance/Ginz/week03/address_book/address_book.h
+
+/home/joel/Desktop/C Advance/Ginz/week03/address_book/address_book.h
+
+/home/joel/Desktop/C Advance/Ginz/week03/address_book/test_address_book.c
+stdio.h
+-
+stdlib.h
+-
+address_book.h
+/home/joel/Desktop/C Advance/Ginz/week03/address_book/address_book.h
+
+/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/symbol_table.c
+stdio.h
+-
+stdlib.h
+-
+symbol_table.h
+/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/symbol_table.h
+
+/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/symbol_table.h
+
+/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/test_symbol_tables.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+symbol_table.h
+/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/symbol_table.h
+
+/home/joel/Desktop/C Advance/Ginz/week04/test_lib.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+libfdr/jrb.h
+-
+utility.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week05/test_lib.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+bt/btree.h
+-
+utility.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/graph.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/graph.h
+
+/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/graph.h
+
+/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/test_graph.c
+stdio.h
+-
+stdlib.h
+-
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week06/matrix_implement/graph.h
+string.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/graph.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/graph.h
+
+/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/graph.h
+libfdr/jrb.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/test_graph.c
+stdio.h
+-
+stdlib.h
+-
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/graph.h
+string.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week07/graph.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week07/graph.h
+
+/home/joel/Desktop/C Advance/Ginz/week07/graph.h
+libfdr/jrb.h
+-
+libfdr/dllist.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week07/metro_stations.c
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week07/graph.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week07/test_graph.c
+stdio.h
+-
+stdlib.h
+-
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week07/graph.h
+string.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week08/graph.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week08/graph.h
+
+/home/joel/Desktop/C Advance/Ginz/week08/graph.h
+libfdr/jrb.h
+-
+libfdr/dllist.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week08/metro_stations.c
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week08/graph.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week08/test_graph.c
+stdio.h
+-
+stdlib.h
+-
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week08/graph.h
+string.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week09/graph.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week09/graph.h
+
+/home/joel/Desktop/C Advance/Ginz/week09/graph.h
+libfdr/jrb.h
+-
+libfdr/dllist.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week09/metro_stations.c
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week09/graph.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/joel/Desktop/C Advance/Ginz/week09/test_graph.c
+stdio.h
+-
+stdlib.h
+-
+graph.h
+/home/joel/Desktop/C Advance/Ginz/week09/graph.h
+string.h
+-
+

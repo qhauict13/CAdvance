@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joel/Desktop/C Advance/Ginz/week05/test_lib.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+bt/btree.h
+-
+utility.h
+-
+
+week05/../lib/inc/bt/bc.h
+limits.h
+-
+
+week05/../lib/inc/bt/bt.h
+stdio.h
+-
+bc.h
+week05/../lib/inc/bt/bc.h
+
+week05/../lib/inc/bt/btree.h
+bt.h
+week05/../lib/inc/bt/bt.h
+
+week05/../lib/inc/utility.h
+

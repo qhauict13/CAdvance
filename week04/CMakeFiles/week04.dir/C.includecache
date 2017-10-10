@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joel/Desktop/C Advance/Ginz/week04/test_lib.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+libfdr/jrb.h
+-
+utility.h
+-
+
+week04/../lib/inc/libfdr/jrb.h
+jval.h
+week04/../lib/inc/libfdr/jval.h
+
+week04/../lib/inc/libfdr/jval.h
+
+week04/../lib/inc/utility.h
+

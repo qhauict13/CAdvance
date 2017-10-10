@@ -23,3 +23,12 @@ DFS and BFS
 directed Graph
 ## Week 09
 Weighted Graph
+
+
+###How to use:
+cd lib
+makedir llib
+cd ../libfdr
+make
+cd ../libutility
+make

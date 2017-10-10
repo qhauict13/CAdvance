@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/week05.dir/test_lib.c.o  -o week05  -L"/home/joel/Desktop/C Advance/Ginz/week05/../lib/llib" -Wl,-rpath,"/home/joel/Desktop/C Advance/Ginz/week05/../lib/llib" -lfdr -lutility -lbt 

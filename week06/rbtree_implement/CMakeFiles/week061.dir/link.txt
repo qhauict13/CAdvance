@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/week061.dir/test_graph.c.o CMakeFiles/week061.dir/graph.c.o  -o week061  -L"/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/../../lib/llib" -Wl,-rpath,"/home/joel/Desktop/C Advance/Ginz/week06/rbtree_implement/../../lib/llib" -lfdr -lutility -lbt 

@@ -1,0 +1,3 @@
+/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/CMakeFiles/rebuild_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/CMakeFiles/edit_cache.dir
+/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/CMakeFiles/week031.dir

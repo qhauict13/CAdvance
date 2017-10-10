@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/symbol_table.c
+stdio.h
+-
+stdlib.h
+-
+symbol_table.h
+/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/symbol_table.h
+
+/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/symbol_table.h
+
+/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/test_symbol_tables.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+symbol_table.h
+/home/joel/Desktop/C Advance/Ginz/week03/symbol_tables/symbol_table.h
+
